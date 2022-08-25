@@ -1,4 +1,4 @@
-﻿# FourthSIOProject
+﻿# Fourth SIO Project
 
 This project consisted in analising a froze VM, which was attacked. Writing a report about the attack.
 
@@ -13,9 +13,9 @@ This project was developed under the [Information And Organisational Security](h
 - [x] Que alterações foram realizadas e qual o propósito aparente?
 - [x] Were there any transfers made? If so, how and what is the content?
 
+## Grade 
+This project's grade was **15,44** out of 20.
+
 ## Authors
 *  **Eduardo Santos**: [eduardosantoshf](https://github.com/eduardosantoshf)
 *  **Margarida Martins**: [margaridasmartins](https://github.com/margaridasmartins)
-
-
-
